@@ -44,7 +44,9 @@ In this exercise, you will:
    </a>
 
 > [!IMPORTANT]
-> The **Start Exercise** button will activate after copying the repository. You will probably need to refresh the page.
+> The **Start Exercise** button will activate after copying the Oi  amigo 
+probably need to refresh the page. Oi 
+eu Eu sou amigos 
 
 ---
 
